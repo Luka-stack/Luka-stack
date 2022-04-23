@@ -14,8 +14,8 @@ My goal is to fill my GitHub page with a lot of weird, funny, and interesting pr
 If you think that I'd be a great asset for your project just contact me :) I’m looking to collaborate.
 
 ## 📫 Contact
-You can reach me via one of these emails: [lkr.rafa@gmail.com], [uchiha.takahiro@gmail.com]
-My Linkedin account [https://www.linkedin.com/in/lukaszrafa-stack/]
+You can reach me via one of these emails: [lkr.rafa@gmail.com], [uchiha.takahiro@gmail.com] <br>
+My Linkedin account [https://www.linkedin.com/in/lukaszrafa-stack/]<br>
 Or you can use Facebook 😅
 
 <!---
