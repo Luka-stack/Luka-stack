@@ -4,11 +4,13 @@ I'm open-minded and hard-working 😃
 ## 👀 My github page goal
 My goal is to fill my GitHub page with a lot of weird, funny, and interesting projects using various languages, frameworks, and tools.
 
-## 🌱 I’m currently learning
+## 🌱 I’m currently working with
 1. Next.js
 2. Nest.js
-3. Django
-4. Electron 
+3. Nuxt.js
+4. Microservices
+5. RabbitMq
+6. Docker and Kubernetes
 
 ## 💞️ Collaboration
 If you think that I'd be a great asset for your project just contact me :) I’m looking to collaborate.
